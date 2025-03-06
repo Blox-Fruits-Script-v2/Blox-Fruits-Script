@@ -1,0 +1,1 @@
+console.log("Blox Fruits Script is active!");
